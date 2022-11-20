@@ -1,1 +1,3 @@
 Ez a tiltás előtti tartalom ami felmegy a gitre. 
+
+Ennek a sornak már nem szabad benne lennie a filében! :)
