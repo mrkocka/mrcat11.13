@@ -1,0 +1,1 @@
+Ez a tiltás előtti tartalom ami felmegy a gitre. 
